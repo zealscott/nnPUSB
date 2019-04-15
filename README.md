@@ -12,6 +12,9 @@ Some code comes from [kiryor's](https://github.com/kiryor/nnPUlearning).
 * Numpy >=1.1
 
 ## Quick start
+
+You can set your GPU on the global variable *device* in  `args.py`
+
 You can run an example code of MNIST for comparing the performance of nnPU learning and nnPUSB learning.
 
 ```python

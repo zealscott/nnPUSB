@@ -1,3 +1,4 @@
 ﻿/openml
 /__pycache__
 .DS_Store
+/cifar10

@@ -40,7 +40,7 @@ def process_args():
     args = parser.parse_args()
     if args.preset == "mnist":
         args.labeled = 100
-        args.unlabeled = 59900
+        args.unlabeled = 60000
         args.dataset = "mnist"
         args.batchsize = 30000
         args.epoch = 100
